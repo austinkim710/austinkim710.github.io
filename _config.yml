@@ -31,7 +31,7 @@ twitter_username:
 github_username:  austinkim710
 
 # Build settings
-theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
