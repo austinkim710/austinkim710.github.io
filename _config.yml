@@ -31,9 +31,10 @@ twitter_username:
 github_username:  austinkim710
 
 # Build settings
-theme: startbootstrap-freelancer-rails
+theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
